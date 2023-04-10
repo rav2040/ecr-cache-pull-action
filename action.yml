@@ -1,5 +1,5 @@
-name: "ECR pull"
-description: "Pull image tags from a designated ECR repository."
+name: "ECR cache pull"
+description: "Pull image tags from a designated ECR repository that were pushed in another job."
 inputs:
   repository-url:
     description: "The URL of an ECR repository."

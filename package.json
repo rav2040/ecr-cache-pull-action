@@ -1,5 +1,5 @@
 {
-  "name": "ecr-pull-action",
+  "name": "ecr-cache-pull-action",
   "version": "1.0.2",
   "author": "Stuart Kennedy",
   "main": "lib/main.js",
